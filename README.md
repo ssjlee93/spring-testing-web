@@ -1,2 +1,4 @@
 # spring-testing-web
-Spring guide : Testing the Web Layer
+
+This application follows the guide on Spring.io  
+[Testing the web layer](https://spring.io/guides/gs/testing-web/)  

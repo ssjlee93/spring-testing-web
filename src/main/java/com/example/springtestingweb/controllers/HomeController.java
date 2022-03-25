@@ -10,6 +10,6 @@ public class HomeController {
     // map to all HTTP operations
     @RequestMapping("/")
     public @ResponseBody String greeting() {
-        return "Hello World";
+        return "Hello, World";
     }
 }
